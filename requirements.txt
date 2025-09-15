@@ -1,0 +1,20 @@
+# requirements.txt (Versão Final com Playback)
+
+# --- Para quem usa apenas CPU ---
+torch
+torchaudio
+
+# --- Bibliotecas do projeto ---
+openai-whisper
+soundfile
+numpy
+python-docx
+fpdf2
+Pillow
+madmom
+demucs
+sounddevice  # NOVO: Para tocar o áudio
+
+# Versões fixadas para garantir compatibilidade com Whisper
+numba==0.58.1
+llvmlite==0.41.1
