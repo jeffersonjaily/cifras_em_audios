@@ -6,7 +6,6 @@ Uma aplicação de desktop robusta, desenvolvida em Python, que utiliza Intelig�
 
 ![Screenshot da Aplicação](img/image.png)
 
-
 ---
 
 ## ✨ Funcionalidades Principais
@@ -50,7 +49,7 @@ Este projeto foi desenvolvido com foco em robustez e máxima precisão, incorpor
 ### Passos para Instalação
 1.  **Clone este repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/cifras_em_audios.git](https://github.com/seu-usuario/cifras_em_audios.git)
+    git clone [https://github.com/jeffersonjaily/cifras_em_audios.git](https://github.com/jeffersonjaily/cifras_em_audios.git)
     cd cifras_em_audios
     ```
 
@@ -95,4 +94,4 @@ Este projeto está sob a licença MIT.
 
 ---
 
-Feito por **[Jefferspn Felix]**
+Feito por **Jefferson Felix**
