@@ -4,7 +4,7 @@
 
 Uma aplicação de desktop robusta, desenvolvida em Python, que utiliza Inteligência Artificial para transcrever letras e extrair cifras de arquivos de áudio com alta precisão.
 
-![Screenshot da Aplicação](https://i.imgur.com/link-para-sua-imagem.png)
+![Screenshot da Aplicação]https://imgur.com/a/eha8Tvy)
 *(Dica: Tire uma foto do seu programa funcionando, envie para um site como o [Imgur](https://imgur.com/upload) e cole o link da imagem aqui para substituir o placeholder)*
 
 ---
